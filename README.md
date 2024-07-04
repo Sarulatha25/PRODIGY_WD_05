@@ -9,6 +9,8 @@ This project is an Weather Webstie. It shows the weather condition (humidity,pre
 
 Languages used: HTML, CSS
 
+Website Link: https://knowtheweather25.netlify.app/
+
 <div align="center">
   <img src="./screenshot.png" />
 </div>
